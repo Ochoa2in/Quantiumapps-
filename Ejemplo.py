@@ -28,4 +28,4 @@ nn1=st.number_imput("mete un n1")
 nn2=st.number_imput("dame n2")
 
 mult=nn1(nn2)
-st.write("la multiplicacion de nn1",nn1,"y"nn2,"es:",mult )
+st.write("la multiplicacion de nn1",nn1,"y",nn2,"es:",mult )
