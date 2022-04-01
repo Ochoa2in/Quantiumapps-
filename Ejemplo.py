@@ -18,3 +18,4 @@ if click==True:
 #st.latex("\int_1^6sin(x)")
 #st.markdown("#titulo")
 #st.markdown("*este es una viñeta*")
+num1=st.slider("elige un numero 1",0.0,100.0,50.00)
