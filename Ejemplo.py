@@ -22,3 +22,10 @@ num1=st.slider("elige un numero 1",0.0,100.0,50.00)
 num2=st.slider("elige el numero 2",0.0,100.0,50.00)
 suma=num1+num2
 st.write("la suma de",num1,"y",num2,"es:",suma)
+
+st.write("ahora multipliquemos")
+nn1=st.number_imput("mete un n1")
+nn2=st.number_imput("dame n2")
+
+mult=nn1(nn2)
+st.write("la multiplicacion de nn1",nn1,"y"nn2,"es:",mult )
